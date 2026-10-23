@@ -1,0 +1,12 @@
+# Python & Virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+
+# Presentations & Delivery Notes (Local only)
+*.pptx
+*.html
+PRESENTATION_SCRIPT.md
+*.bat
+*.ps1
